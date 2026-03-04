@@ -40,7 +40,7 @@ This repo uses `.github/workflows/deploy-pages.yml` to publish from `main`.
 ## Replace placeholders before launch
 
 - `CNAME` domain (`www.example.com`)
-- App Store and Google Play URLs in `index.html`
+- App Store URL in `index.html`
 - Contact emails in `contact/index.html`
 - Legal placeholders:
   - `[COMPANY_NAME]`
